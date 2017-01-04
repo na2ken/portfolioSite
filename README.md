@@ -1,2 +1,2 @@
-# portfolioSite
-This Repository is The portfolioSite for psPrject.
+# Portfolio Site
+This Repository is The PortfolioSite for Designer's Careerup.
